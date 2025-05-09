@@ -6,11 +6,9 @@
 
 - 🤵🏻‍♀ Assistant Director of **Web Development Team** IEEE CUI.
 
-- 💻 Currently learning **Next.js**
-
 - 👩‍💻 Working on **Health Connect**, a website to connect doctors and patients.
   
-- 🤝 Talk to me about Stranger Things, Web Development or life.
+- 🤝 Talk to me about Web Development, Stranger Things or life.
   
 - 📫 How to reach me **umamahwaqar12345@gmail.com**
 
