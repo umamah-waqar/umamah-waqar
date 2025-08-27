@@ -5,9 +5,9 @@
 
 - 👩‍💻 **Frontend Intern** at Tangent Tek.
   
-- 🤵🏻‍♀ Assistant Director of **Web Development Team** IEEE CUI.
+- 🤵🏻‍♀ Director of **Web Development Team** IEEE CUI.
 
-- 🤝 Talk to me about Web Development, Stranger Things or life.
+- 🤝 Talk to me about Web Development, Harry Potter or life.
   
 - 📫 How to reach me **umamahwaqar12345@gmail.com**
 
