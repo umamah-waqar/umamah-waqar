@@ -3,7 +3,7 @@
 <h3 align="center">What's up coders? Dw, I'm also just as confused in the CS world as you are!</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
-- 👩‍💻 **Frontend Intern** at Tangent Tek.
+- 👩‍💻 **Full-Stack Development Intern** at Tangent Tek.
   
 - 🤵🏻‍♀ Director of **Web Development Team** IEEE CUI.
 
