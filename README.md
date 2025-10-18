@@ -3,7 +3,7 @@
 <h3 align="center">What's up coders? Dw, I'm also just as confused in the CS world as you are!</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
-- 👩‍💻 **Full-Stack Development Intern** at Tangent Tek.
+- 👩‍💻 **Full-Stack Development Intern** at Tangent Technologies.
   
 - 🤵🏻‍♀ Director of **Web Development Team** IEEE CUI.
 
@@ -60,6 +60,5 @@
 <p align="left">
 <a href="www.linkedin.com/in/umamah-waqar-87868a298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umamah-waqar-87868a298" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/umamahwaqar/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="umamah waqar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/umamah.waqar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umamah.waqar" height="30" width="40" /></a>
 </p>
 <br>
