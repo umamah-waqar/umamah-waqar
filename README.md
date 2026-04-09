@@ -58,9 +58,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 15px; text-decoration: none;"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://leetcode.com/u/umamahwaqar/" target="_blank" rel="noreferrer" style="margin-right: 15px; text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="leetcode" width="40" height="40"/> 
-  </a>
 </p>
 
 <br>
